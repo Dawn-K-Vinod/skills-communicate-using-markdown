@@ -9,3 +9,9 @@ Here i wrote 6 levels of heading.
 
 # Images in the markdown file
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# A block of code
+```python
+name=input("Enter your name: ")
+print(f"My name is {name}")
+```
