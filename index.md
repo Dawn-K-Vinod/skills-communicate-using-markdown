@@ -15,3 +15,10 @@ Here i wrote 6 levels of heading.
 name=input("Enter your name: ")
 print(f"My name is {name}")
 ```
+
+### Task List
+- [x] first task
+- [ ] second task
+- [ ] third task
+
+
